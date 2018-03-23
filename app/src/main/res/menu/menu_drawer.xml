@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_drawer_login"
+        android:title="login"
+      />
+    <item
+        android:id="@+id/menu_drawer_signup"
+        android:title="signup"
+        />
+    <item
+        android:id="@+id/menu_drawer_home"
+        android:title="home"
+       />
+    <item
+        android:id="@+id/menu_drawer_cart"
+        android:title="cart"
+        />
+
+
+
+
+</menu>
